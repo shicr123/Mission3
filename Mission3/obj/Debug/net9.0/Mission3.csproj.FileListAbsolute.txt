@@ -1,0 +1,14 @@
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/bin/Debug/net9.0/Mission3
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/bin/Debug/net9.0/Mission3.deps.json
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/bin/Debug/net9.0/Mission3.runtimeconfig.json
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/bin/Debug/net9.0/Mission3.dll
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/bin/Debug/net9.0/Mission3.pdb
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.AssemblyInfoInputs.cache
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.AssemblyInfo.cs
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.csproj.CoreCompileInputs.cache
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.dll
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/refint/Mission3.dll
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.pdb
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/Mission3.genruntimeconfig.cache
+/Users/shirleycruz/RiderProjects/Mission3/Mission3/obj/Debug/net9.0/ref/Mission3.dll
